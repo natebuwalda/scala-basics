@@ -1,0 +1,9 @@
+This repository contains the code samples used during my presentation at Fall Iowa Code Camp 2012
+
+It contains:
+    * Basic syntax
+    * How to use pattern matching
+    * Collection API features
+    * Basic functional capabilities
+
+This project is built using sbt 0.11.3.  Tests are written in ScalaTest.
